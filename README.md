@@ -1,6 +1,6 @@
 Simple node web app to help learn and understand concepts in docker and node.
 
-To Run, do commands in terminal:
+To Run, ensure Docker is installed and do the following commands in terminal:
 
 docker build . 
 
